@@ -30,9 +30,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='../assets/Flashcards.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='./src/assets/Flashcards.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with ...  
+GIF created with LICECAP  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
