@@ -1,10 +1,11 @@
-import React from "react";
+import React, { Component, useEffect, useState } from "react";
 import Event from './Event';
+import Quiz from './Quiz';
 
-const List = ({ cards }) => {
+const List = ({ cards, input, handleChange }) => {
     return (
         <div>
-            <Event card={cards} />
+            <Event card={cards} input={input} handleChange={handleChange} />
         </div>
     )
 }

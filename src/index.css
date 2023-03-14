@@ -122,3 +122,15 @@ button:focus-visible {
 .card.physics {
   background-image: linear-gradient(to right, #662D8C, #ED1E79);
 }
+
+#correct {
+  background-color: #64c993;
+}
+
+#wrong {
+  background-color: rgb(144, 59, 59);
+}
+
+#start-end, #stop-end {
+  background-color: rgb(96, 94, 94);
+}
